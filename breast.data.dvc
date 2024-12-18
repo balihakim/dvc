@@ -1,0 +1,5 @@
+outs:
+- md5: bb1e8403697c3fd6ef32e9bff5e9fd99
+  size: 20062
+  hash: md5
+  path: breast.data
